@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/mahi/AndroidStudioProjects/Medicine Clash Detector/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
+            "outputFile": "/mnt/28D42DB4D42D8562/Documents/Study/Fall2018/CSE327/Project/nsu.fall.2018.cse327.2.t2/Medicine Clash Detector/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml",
             "map": [
                 {
                     "source": "/home/mahi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.3.1.aar/55267b61a7e0188b950b4ff8c047af2b/res/values-b+es+419/values-b+es+419.xml",
